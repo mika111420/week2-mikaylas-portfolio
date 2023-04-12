@@ -6,10 +6,10 @@ Week 2 of UoM Coding Bootcamp: using advanced CSS to create my professional port
   
 My deployed site: https://mika111420.github.io/week2-mikaylas-portfolio/
 
-*##Index.html*
+*#Index.html*
 ![Mikaylasportfolioindexhtml](https://user-images.githubusercontent.com/128564443/231566054-eaf7ec2e-7b07-4d92-87f0-a2712a3cce24.png)
 
-*##Style.css*
+*#Style.css*
 
 ![MikaylasPortfolioStyleCSS](https://user-images.githubusercontent.com/128564443/231566248-dfe64b67-bd9a-4fc6-b677-38e1c1fc5064.png)
 
